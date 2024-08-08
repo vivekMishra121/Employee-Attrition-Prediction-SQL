@@ -1,5 +1,6 @@
-# Employee-Attrition-Prediction Data Analysis -SQL
-![image](https://github.com/user-attachments/assets/0763513f-3bf3-46a2-90c6-f2565943f1be)
+# Employee-Attrition-Prediction Data Analysis 
+![image](https://github.com/user-attachments/assets/3bfd351c-ffe7-4e9b-af14-13d18ac70cbb)
+
 
 In this project, I performed an in-depth analysis of employee attrition data using SQL, focusing on understanding the demographics of the workforce and their impact on retention rates. The goal was to identify key factors contributing to employee turnover and provide actionable insights to help reduce attrition rates. By combining demographic analysis with retention rate calculations, I was able to provide a comprehensive view of the factors influencing employee attrition, leading to targeted recommendations for improving employee retention.
 
@@ -16,6 +17,7 @@ Utilize advanced SQL skills to retrieve, filter, aggregate, and manipulate emplo
 * #### Schema Optimization:
 Evaluate the database schema for efficiency, redundancy, and data integrity. Propose improvements to enhance data quality, streamline data retrieval processes, and ensure the robustness of the analysis.
 ## Technical Stack
+![image](https://github.com/user-attachments/assets/f25dff70-489c-46a4-b4d2-f6475e91c097)
 * Database Management System (DBMS): PostgreSQL
 * SQL dialect: Standard SQL
 ## Methodology
